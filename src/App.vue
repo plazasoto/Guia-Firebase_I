@@ -1,9 +1,9 @@
 <script setup>
-import Colaboradores from './components/Colaboradores.vue'
+import Farmacia from './components/Farmacia.vue'
 </script>
 
 <template>
-  <Colaboradores/>
+  <Farmacia/>
 </template>
 
 <style scoped>
